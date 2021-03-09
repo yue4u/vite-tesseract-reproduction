@@ -1,0 +1,15 @@
+{
+  "name": "vite-tesseract-reproduction",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.5"
+  },
+  "dependencies": {
+    "tesseract.js": "^2.1.4"
+  }
+}
